@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gs005.kobia.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
